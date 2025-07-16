@@ -1,0 +1,15 @@
+{
+  "latest": "1.1.0",
+  "1.1.0": {
+    "url": "https://elpolloj.github.io/mokhtar-updates/Mokhtar-1.1.0.zip",
+    "sha256": "ab284485b8cb46e11dd93ecc21bd162743028987994a4175cfafeddcbc8d7239",
+    "notes": "✓ Updated version number\n✓ Added app name constant",
+    "force": false
+  },
+  "1.0.0": {
+    "url": "https://elpolloj.github.io/mokhtar-updates/Mokhtar-1.0.0.zip",
+    "sha256": "1cf80d0de06ce23fedaf2664f155db4e1ba6cfdab247561ed2ccfb59bfb3f581",
+    "notes": "Initial release",
+    "force": false
+  }
+} 
