@@ -7,7 +7,7 @@
     },
     "1.1.0": {
         "url": "https://elpolloj.github.io/mokhtar-updates/Mokhtar-1.1.0.zip",
-        "sha256": "e47951cec4355ffc258169ba595d6973eb94edfb17ad5a5b94712c782649da48",
-        "notes": "Test update with improved update system"
+        "sha256": "e0ecd0c6a01c9c0944d96d3ff0751589894b7ad338c4673e3d03a03fc7cf4b94",
+        "notes": "Updated version display in UI"
     }
 } 
